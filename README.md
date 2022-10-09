@@ -6,11 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devcode_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devcode_pt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.devcode.pt/linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.devcode.pt/linkedin/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.devcode.pt/facebook/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.devcode.pt/facebook/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.devcode.pt/insagram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.devcode.pt/insagram/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://www.devcode.pt/discord/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.devcode.pt/discord/" height="30" width="40" /></a>
-<a href="/https://www.devcode.pt/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.devcode.pt/rss/" height="30" width="40" /></a>
+<a href="https://www.devcode.pt/linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.devcode.pt/linkedin/" height="30" width="40" /></a>
+<a href="https://www.devcode.pt/facebook/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.devcode.pt/facebook/" height="30" width="40" /></a>
+<a href="https://www.devcode.pt/insagram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.devcode.pt/insagram/" height="30" width="40" /></a>
+<a href="https://www.devcode.pt/discord/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.devcode.pt/discord/" height="30" width="40" /></a>
+<a href="https://www.devcode.pt/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.devcode.pt/rss/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackenergypt&show_icons=true&locale=en&layout=compact" alt="blackenergypt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackenergypt&show_icons=true&locale=en" alt="blackenergypt" /></p>
+
